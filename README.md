@@ -6,6 +6,6 @@ This repository is intended to share the python script used for respective appli
 
 Available on playstore
 Links
-  Bitcoin: https://play.google.com/store/apps/details?id=com.diversity.btcgenerator
+  https://play.google.com/store/apps/details?id=com.diversity.btcgenerator // Bitcoin
   
-  Dogecoin: https://play.google.com/store/apps/details?id=com.diversity.dogegenerator&hl=en-US
+  https://play.google.com/store/apps/details?id=com.diversity.dogegenerator&hl=en-US // Dogecoin
