@@ -98,9 +98,9 @@ if __name__ == "__main__":
             data = []
             for i in range(int(sys.argv[2])):
                 random_number = random.randint(1, 115792089237316195423570985008687907852837564279074904382605163141518161494336)
-                EXAMPLE_PRIVATE_KEYS = [random_number]
+                PRIVATE_KEYS = [random_number]
 
-                for secret in EXAMPLE_PRIVATE_KEYS:
+                for secret in PRIVATE_KEYS:
                     wif = secret_to_wif(secret)
 
                     address_legacy = secret_to_address(secret, True)
