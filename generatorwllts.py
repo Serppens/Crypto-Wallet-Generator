@@ -68,7 +68,7 @@ def _pubk_to_address(pubk):
 
 def secret_to_wif(secret):
     if sys.argv[1]=="bitcoin":
-        PREFIX="00"
+        PREFIX="80"
     elif sys.argv[1]=="dogecoin":
         PREFIX = "9e"
         
